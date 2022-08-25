@@ -8,4 +8,7 @@ ambicion = "No te compares"
 autoestima = "Crece por ti"
 yo = ambicion + autoestima
 print (yo)
+g = int(25)
+y = 5 * g
+print (y)
 
